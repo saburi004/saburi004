@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saburi Nikam
 - 🌱 I’m currently pursuing my BTECH in Artificial Intelligeance an Data Science @ VIT , Pune
-- 
+
 
 
 
