@@ -98,10 +98,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0a47,50:5b1a75,100:a855f7&height=120&section=footer"/>
 </p>
-<!-- Futuristic Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0a47,50:5b1a75,100:a855f7&height=250&section=header&text=Saburi%20Nikam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
-</p>
+
 
 
 
