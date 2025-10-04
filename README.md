@@ -26,7 +26,8 @@ React · Next.js · Node.js · Express · MongoDB · MySQL · Java · C++ · Pyt
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saburi004&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saburi004&show_icons=true&theme=radical&commits_year=2025)
+
 
 ---
 ✨ “Learning by building.”  
