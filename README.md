@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saburi Nikam  
 
-💻 Computer Engineering Student | 🚀 Frontend Developer | 📚 Always Learning  
+💻 Btech in Artificial Intelligence and Data Science|Student|Pune  
 
 ---
 
